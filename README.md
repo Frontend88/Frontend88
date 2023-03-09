@@ -4,7 +4,7 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/shadowcrafter88?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Frontend88?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shadowcrafter88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/shadowcrafter88?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shadowcrafter88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
@@ -28,10 +28,10 @@
           - 🔭 I’m currently working on <b>3ML Cloud</b>
         </p>
         <p>
-          - 🌱 I’m currently learning <b>React, MongoDB</b>
+          - 🌱 I’m currently learning <b>React, Python, MongoDB</b>
         </p>
         <p>
-          - 📫 How to reach me <b>jonas.list.1289@gmail.com</b>
+          - 📫 How to reach me <b>marc.boy2005@icloud.com</b>
         </p>
       </p>
     </td>
