@@ -4,12 +4,12 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/frontend88?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Frontend88?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ frontend88?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/ frontend88?tab=followers">
+  <a href="https://github.com/Frontend88?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ frontend88?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://view-count-badge.zohan.tech/ frontend88/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/ frontend88/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
+    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Frontend88/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
   <!--<a href="https://npmjs.com/~zo-bro-23"><img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a> -->
 </p>
 
@@ -111,20 +111,20 @@
 ### 📊 Stats
 <div align="center">
   <!-- General Github stats -->
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username= frontend88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=Frontend88&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 
   <br />
 
   <!-- Most used programming languages -->
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username= frontend88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Frontend88&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 
   <br />
 
   <!-- Streak information -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= frontend88&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frontend88&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true" />
   
   <!-- Commit snake -->
   <!-- <a href="https://github.com/ frontend88" align="center">
-    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user= frontend88&repo= frontend88&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user= frontend88&repo= Frontend88&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   </a> -->
 <div>
