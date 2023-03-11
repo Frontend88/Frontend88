@@ -18,10 +18,6 @@
 <table align="center">
   <tr>
     <td>
-      <!-- Discord rich presence -->
-      <a width="48%" href="https://discord.com/users/675399364172185622"><img src="https://lanyard.cnrad.dev/api/675399364172185622" /></a>
-    </td>
-    <td>
       <!-- What I do -->
       <p width="48%">
         <p>
@@ -31,7 +27,7 @@
           - 🌱 I’m currently learning <b>React, MongoDB</b>
         </p>
         <p>
-          - 📫 How to reach me <b>jonas.list.1289@gmail.com</b>
+          - 📫 How to reach me <b>marc.boy2005@icloud.com</b>
         </p>
       </p>
     </td>
